@@ -1,4 +1,4 @@
-<!--
+
 ---
 permalink: /
 title: "About"
@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--->
+
 I am a PhD candidate in Economics at Washington University in St. Louis. My research is in labor and development economics.
 I am on the 2026–2027 academic job market.
 
