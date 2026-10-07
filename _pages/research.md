@@ -10,7 +10,7 @@ author_profile: true
 
 ## Working Papers
 
-**The Effect of Education Reform on the Marriage Market: Evidence from India** (with Sanghmitra Gautam)
+**The Effect of Education Reform on the Marriage Market: Evidence from India** (with Sanghmitra Gautam (https://sanghmitragautam.github.io/))
 {: style="margin-bottom: 0.2em"}
 
 <details style="margin-bottom: 1.5em">
