@@ -22,6 +22,7 @@ We study the impact of a large-scale school construction program, the District P
 </div>
 </details>
 
+
 **Does the Great Recession Reshape the Global Value Chain?** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
 {: style="margin-bottom: 0.2em"}
 
@@ -29,5 +30,16 @@ We study the impact of a large-scale school construction program, the District P
 <summary>Abstract</summary>
 <div markdown="1">
 
-This paper examines the impacts of the 2008 Great Recession on global value chains (GVCs) using a unified framework that employs input-output analysis based on the World Input-Output Database (WIOD) from 2003 to 2014. We focus on the US production network's role within
+This paper examines the impacts of the 2008 Great Recession on global value chains (GVCs) using a unified framework that employs input-output analysis based on the World Input-Output Database (WIOD) from 2003 to 2014. We focus on the US production network's role within the world economy through both final and intermediate trade. In particular, we examine: (i) the backward linkage effect (BLE), which analyzes responses to shifts in US final demand across various countries, and (ii) the forward linkage effect (FLE), which explores how changes in each of US primary inputs (capital and labor) influence global supply chains. The analysis includes a division of the global trade network into eight regions and examines 15 manufacturing sectors across three distinct periods: pre-Recession, during-Recession, and post-Recession. The finding suggests significant reshufflings within the GVC, particularly with stable US exports to and increasing imports from Emerging Asia, and a broad shift in trade dynamics from North and Rest of South regions to Developed and Emerging Asia. The BLE is identified as a crucial driver but its role has been rising in some regions/industries but collapsing in others, varying from pre- to post-recession eras. The FLE is found with limited impact and its role has been more noticeable via the capital channel.
+
+</div>
+</details>
+
+## Selected Work in Progress
+
+**Investment-specific Technological Progress Induced Directed Technological Change and Labor Market Dynamics** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
+
+**An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with Jin-Tan Liu and James K. Hammitt)
+
+
 
