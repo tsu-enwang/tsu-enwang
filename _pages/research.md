@@ -37,9 +37,10 @@ This paper examines the impacts of the 2008 Great Recession on global value chai
 
 ## Selected Work in Progress
 
+**An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with Jin-Tan Liu and James K. Hammitt)
+
 **Investment-specific Technological Progress Induced Directed Technological Change and Labor Market Dynamics** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
 
-**An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with Jin-Tan Liu and James K. Hammitt)
 
 
 
