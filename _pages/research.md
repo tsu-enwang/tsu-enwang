@@ -6,7 +6,7 @@ author_profile: true
 
 ## Job Market Paper
 
-**Parental Leave and Gender Gaps in the Labor Market** (with Jin-Tan Liu)
+**Parental Leave and Gender Gaps in the Labor Market** (with [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/))
 
 ## Working Papers
 
@@ -23,7 +23,7 @@ We study the impact of a large-scale school construction program, the District P
 </details>
 
 
-**Does the Great Recession Reshape the Global Value Chain?** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
+**Does the Great Recession Reshape the Global Value Chain?** (with [Wan-Jung Cheng](https://sites.google.com/view/wjcheng), [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/), and [Ping Wang](https://sites.wustl.edu/pingwang/))
 {: style="margin-bottom: 0.2em"}
 
 <details style="margin-bottom: 1.5em">
@@ -37,9 +37,9 @@ This paper examines the impacts of the 2008 Great Recession on global value chai
 
 ## Selected Work in Progress
 
-**An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with Jin-Tan Liu and James K. Hammitt)
+**An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/) and [James K. Hammitt](https://hsph.harvard.edu/ala/faculty/james-k-hammitt/))
 
-**Investment-specific Technological Progress Induced Directed Technological Change and Labor Market Dynamics** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
+**Investment-specific Technological Progress Induced Directed Technological Change and Labor Market Dynamics** (with [Wan-Jung Cheng](https://sites.google.com/view/wjcheng), [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/), and [Ping Wang](https://sites.wustl.edu/pingwang/))
 
 
 
