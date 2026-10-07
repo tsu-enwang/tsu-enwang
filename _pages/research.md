@@ -13,7 +13,7 @@ author_profile: true
 **The Effect of Education Reform on the Marriage Market: Evidence from India** (with Sanghmitra Gautam)
 {: style="margin-bottom: 0.2em"}
 
-<details>
+<details style="margin-bottom: 1.5em">
 <summary>Abstract</summary>
 <div markdown="1">
 
@@ -26,7 +26,7 @@ We study the impact of a large-scale school construction program, the District P
 **Does the Great Recession Reshape the Global Value Chain?** (with Wan-Jung Cheng, Jin-Tan Liu, and Ping Wang)
 {: style="margin-bottom: 0.2em"}
 
-<details>
+<details style="margin-bottom: 1.5em">
 <summary>Abstract</summary>
 <div markdown="1">
 
