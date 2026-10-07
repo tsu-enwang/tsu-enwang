@@ -14,7 +14,6 @@ author_profile: true
 <details>
 <summary>Abstract</summary>
 <div markdown="1">
-
 We study the impact of a large-scale school construction program, the District Primary Education
 Program (DPEP), on female education and marriage market outcomes in India. Using data from the
 District Level Household and Facility Survey (DLHS) and the Indian Census, we employ an event-study
@@ -26,7 +25,6 @@ more prenatal and delivery care. Combining the reduced-form estimates with the m
 framework of Choo and Siow (2006), we find higher marital gains in exposed districts among couples
 with some education but not among couples with none, which suggests that DPEP raised the marital
 return to education.
-
 </div>
 </details>
 
@@ -36,7 +34,6 @@ Liu, and Ping Wang)
 <details>
 <summary>Abstract</summary>
 <div markdown="1">
-
 This paper examines the impacts of the 2008 Great Recession on global value chains
 (GVCs) using a unified framework that employs input-output analysis based on the
 World Input-Output Database (WIOD) from 2003 to 2014. We focus on the US pro-
@@ -53,7 +50,6 @@ from North and Rest of South regions to Developed and Emerging Asia. The BLE is
 identified as a crucial driver but its role has been rising in some regions/industries but
 collapsing in others, varying from pre- to post-recession eras. The FLE is found with
 limited impact and its role has been more noticeable via the capital channel.
-
 </div>
 </details>
 
