@@ -38,6 +38,16 @@ This paper examines the impacts of the 2008 Great Recession on global value chai
 ## Selected Work in Progress
 
 **An Empirical Study of Nuclear Risk Perception, Attitudes and Risk Evaluation in Taiwan** (with [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/) and [James K. Hammitt](https://hsph.harvard.edu/ala/faculty/james-k-hammitt/))
+{: style="margin-bottom: 0.2em"}
+
+<details style="margin-bottom: 1.5em">
+<summary>Abstract</summary>
+<div markdown="1">
+
+We use the 2011 Fukushima disaster as a natural experiment to study how an exogenous shock to nuclear risk perception shapes public attitudes toward nuclear power and willingness to pay (WTP) for non-nuclear alternatives in Taiwan. Combining five surveys conducted between 1992 and 2017, we estimate attitudes toward Taiwan's fourth nuclear power plant with an ordered probit model and WTP with the contingent valuation method. Respondents in 2016 were about 42 percentage points more likely than those in 1992 to oppose operating the plant, and higher risk perception predicts stronger support for non-nuclear alternatives. Using variation in proximity to existing plants, we find no not-in-my-backyard (NIMBY) effect, the shock raised opposition across the island and narrowed the gap between the Taipei area and other regions. WTP falls with the bid amount and depends more on attitudes than on risk perception, while monthly electricity bills play no significant role.
+
+</div>
+</details>
 
 **Investment-specific Technological Progress Induced Directed Technological Change and Labor Market Dynamics** (with [Wan-Jung Cheng](https://sites.google.com/view/wjcheng), [Jin-Tan Liu](https://homepage.ntu.edu.tw/~liujt/), and [Ping Wang](https://sites.wustl.edu/pingwang/))
 
